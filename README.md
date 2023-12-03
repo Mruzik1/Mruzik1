@@ -19,7 +19,7 @@
 - Python
 - C/C++
 - C#
-- HTML/CSS/JavaScript
+- Web Development
 - SQL
 - Linux
 - Docker
