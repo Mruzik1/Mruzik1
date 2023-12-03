@@ -33,6 +33,3 @@
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mruzik1&layout=compact&theme=radical)
-
-## Visitors Count
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mruzik1.Mruzik1&left_text=My%20Page%20Visitors)
