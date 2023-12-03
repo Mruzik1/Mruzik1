@@ -23,6 +23,7 @@
 - HTML/CSS/JavaScript
 - SQL
 - Linux
+- Docker
 
 ## Goals
 - 🎯 My goal is to become a top-notch machine learning researcher.
