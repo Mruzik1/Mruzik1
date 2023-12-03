@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**Mruzik1/Mruzik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌍 I'm a machine learning engineer with a focus on computer vision and an interest in natural language processing.
+- 🎓 I'm a student at the Technical University of Kosice, pursuing a bachelor's degree in AI.
+- 💼 I work remotely for Luxonis, a US-based company specializing in computer vision.
+- 🌐 I'm multilingual, speaking Ukrainian, Russian, Slovak, and English.
 
-Here are some ideas to get you started:
+## Goals
+- 🎯 My goal is to become a top-notch machine learning researcher.
+- 🌍 I aspire to contribute to the global AI and machine learning community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
