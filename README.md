@@ -4,7 +4,24 @@
 - 🌍 I'm a machine learning engineer with a focus on computer vision and an interest in natural language processing.
 - 🎓 I'm a student at the Technical University of Kosice, pursuing a bachelor's degree in AI.
 - 💼 I work remotely for Luxonis, a US-based company specializing in computer vision.
-- 🌐 I'm multilingual, speaking Ukrainian, Russian, Slovak, and English.
+- 🌐 I'm multilingual, speaking English, Ukrainian, Russian, and Slovak.
+
+## Skills
+- 🤖 Machine Learning
+- 👁️ Computer Vision
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 🧠 Deep Learning
+- 💻 Software Development
+- 🤯 Math
+
+## Languages/Technologies
+- Python
+- R
+- C/C++
+- HTML/CSS/JavaScript
+- SQL
+- Linux
 
 ## Goals
 - 🎯 My goal is to become a top-notch machine learning researcher.
@@ -12,3 +29,9 @@
 
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mruzik1&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mruzik1&layout=compact&theme=radical)
+
+## Visitors Count
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Mruzik1.Mruzik1)
