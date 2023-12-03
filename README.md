@@ -11,4 +11,4 @@
 - 🌍 I aspire to contribute to the global AI and machine learning community.
 
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mruzik1&show_icons=true&theme=radical)
