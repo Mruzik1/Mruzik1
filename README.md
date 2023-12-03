@@ -19,6 +19,7 @@
 - Python
 - R
 - C/C++
+- C#
 - HTML/CSS/JavaScript
 - SQL
 - Linux
