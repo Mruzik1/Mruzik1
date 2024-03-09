@@ -10,8 +10,6 @@
 - 🤖 Machine Learning
 - 👁️ Computer Vision
 - 📊 Data Analysis
-- 📈 Data Visualization
-- 🧠 Deep Learning
 - 💻 Software Development
 - 🤯 Math
 
