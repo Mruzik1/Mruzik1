@@ -1,9 +1,8 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me
-- 🌍 I'm a machine learning engineer with a focus on computer vision and an interest in natural language processing.
 - 🎓 I'm a student at the Technical University of Kosice, pursuing a bachelor's degree in AI.
-- 💼 I work remotely for Luxonis, a US-based company specializing in computer vision.
+- 💼 I work remotely for Dell Technologies as an MLOps Intern.
 - 🌐 I'm multilingual, speaking English, Ukrainian, Russian, and Slovak.
 
 ## Skills
