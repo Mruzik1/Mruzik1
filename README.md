@@ -12,15 +12,6 @@
 - 💻 Software Development
 - 🤯 Math
 
-## Languages/Technologies
-- Python
-- C/C++
-- C#
-- Web Development
-- SQL
-- Linux
-- Docker
-
 ## Goals
 - 🎯 My goal is to become a top-notch machine learning researcher.
 - 🌍 I aspire to contribute to the global AI and machine learning community.
