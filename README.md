@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me
-- 🎓 I'm a student at the Technical University of Kosice, pursuing a bachelor's degree in AI.
+- 🎓 I hold a bachelor's degree in AI, getting ready to pursue master's.
 - 💼 I work for Dell Technologies as an MLOps Intern.
 - 🌐 I'm multilingual, speaking English, Ukrainian, Russian, and Slovak.
 
