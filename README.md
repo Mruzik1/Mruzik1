@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me
-- 🎓 I hold a bachelor's degree in AI, getting ready to pursue master's.
+- 🎓 I hold a bachelor's degree in AI and pursuing master's.
 - 💼 I work for Dell Technologies as an MLOps Intern.
 - 🌐 I'm multilingual, speaking English, Ukrainian, Russian, and Slovak.
 
@@ -11,10 +11,6 @@
 - 📊 Data Analysis
 - 💻 Software Development
 - 🤯 Math
-
-## Goals
-- 🎯 My goal is to become a top-notch machine learning researcher.
-- 🌍 I aspire to contribute to the global AI and machine learning community.
 
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mruzik1&show_icons=true&theme=radical)
