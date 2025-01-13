@@ -1,10 +1,5 @@
 # Welcome to My GitHub Profile 👋
 
-## About Me
-- 🎓 I hold a bachelor's degree in AI and pursuing master's.
-- 💼 I work for Dell Technologies as an MLOps Engineer.
-- 🌐 I'm multilingual, speaking English, Ukrainian, Russian, and Slovak.
-
 ## Skills
 - 🤖 Machine Learning
 - 👁️ Computer Vision
