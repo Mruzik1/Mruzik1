@@ -1,4 +1,3 @@
 # Welcome to My GitHub Profile 👋
 
-I'm an ML Engineer, simply as it is :) <br />
-Not commiting much in GitHub due to my primary job.
+Here, you will mainly find my personal projects.
